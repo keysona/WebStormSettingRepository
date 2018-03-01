@@ -1,0 +1,227 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Dropbox/company/project/dodoo-admin/src/components/device/group/detail.vue" timestamp="1516805608289">
+        <mark key="[" line="148" column="7" />
+        <mark key="]" line="148" column="5" />
+        <mark key="^" line="148" column="5" />
+        <mark key="." line="148" column="5" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/company/project/dodoo-admin/src/components/device/device-list/src/main.vue" timestamp="1516155427974">
+        <mark key="[" line="400" column="69" />
+        <mark key="]" line="400" column="69" />
+        <mark key="." line="400" column="69" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/company/project/dodoo-admin/build/webpack.base.conf.js" timestamp="1516517899040">
+        <mark key="[" line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/company/project/front-end/dodoo-admin/src/router/index.js" timestamp="1515294815718">
+        <mark key="[" line="17" column="27" />
+        <mark key="]" line="17" column="26" />
+        <mark key="^" line="17" column="26" />
+        <mark key="." line="17" column="26" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/company/project/front-end/dodoo-admin/src/App.vue" timestamp="1515297435129">
+        <mark key="[" line="16" column="17" />
+        <mark key="]" line="16" column="16" />
+        <mark key="^" line="16" column="16" />
+        <mark key="." line="16" column="16" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/company/project/dodoo-admin/build/dev-server.js" timestamp="1515060540844">
+        <mark key="[" line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/company/project/company/recharge.html" timestamp="1515500178541">
+        <mark key="[" line="218" column="12" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/company/project/dodoo-admin/src/components/version/create.vue" timestamp="1519824249475" />
+      <file name="$USER_HOME$/Dropbox/company/project/dodoo-admin/src/api/api.js" timestamp="1516352309172">
+        <mark key="[" line="406" column="44" />
+        <mark key="]" line="406" column="43" />
+        <mark key="." line="406" column="43" />
+        <mark key="^" line="406" column="43" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/company/project/dodoo-admin/config/index.js" timestamp="1516518025016">
+        <mark key="[" line="12" column="35" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/company/project/dodoo-admin/src/components/device/list.vue" timestamp="1514979195175">
+        <mark key="[" line="10" column="21" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/company/project/dodoo-admin/test/unit/index.js" timestamp="1519798853510">
+        <mark key="[" line="15" column="37" />
+        <mark key="]" line="15" column="36" />
+        <mark key="^" line="15" column="36" />
+        <mark key="." line="15" column="36" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/company/project/front-end/dodoo-admin/.eslintrc.js" timestamp="1515292365386">
+        <mark key="[" line="53" column="54" />
+        <mark key="]" line="53" column="53" />
+        <mark key="^" line="53" column="53" />
+        <mark key="." line="53" column="53" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/company/project/front-end/dodoo-admin/src/main.js" timestamp="1515261565259">
+        <mark key="[" line="3" column="34" />
+        <mark key="]" line="16" column="3" />
+        <mark key="." line="16" column="3" />
+        <mark key="^" line="16" column="3" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/company/project/dodoo-admin/src/components/Login.vue" timestamp="1516331925927">
+        <mark key="[" line="134" column="10" />
+        <mark key="]" line="133" column="11" />
+        <mark key="." line="133" column="11" />
+        <mark key="^" line="133" column="11" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/company/project/dodoo-admin/src/components/device/group/create.vue" timestamp="1516805789899">
+        <mark key="[" line="191" column="0" />
+        <mark key="]" line="79" column="11" />
+        <mark key="^" line="79" column="11" />
+        <mark key="." line="79" column="11" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/company/project/front-end/dodoo-admin/.editorconfig" timestamp="1515263607857">
+        <mark key="[" line="5" column="15" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1519823099438">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/company/project/company/about.html" timestamp="1516759193348">
+        <mark key="[" line="152" column="7" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/company/project/dodoo-admin/src/components/feedback/list.vue" timestamp="1516155805345">
+        <mark key="[" line="239" column="9" />
+        <mark key="]" line="237" column="41" />
+        <mark key="." line="237" column="41" />
+        <mark key="^" line="237" column="41" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/company/project/front-end/dodoo-admin/build/webpack.base.conf.js" timestamp="1515260682323">
+        <mark key="[" line="47" column="8" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/company/project/dodoo-admin/build/build.js" timestamp="1516518002864">
+        <mark key="[" line="17" column="47" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/company/project/dodoo-admin/package.json" timestamp="1514379407520">
+        <mark key="[" line="15" column="23" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/company/project/dodoo-admin/src/config/index.js" timestamp="1516518439723">
+        <mark key="[" line="190" column="19" />
+        <mark key="]" line="190" column="18" />
+        <mark key="." line="190" column="18" />
+        <mark key="^" line="190" column="18" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/company/project/front-end/dodoo-admin/src/components/Home.vue" timestamp="1515315151089">
+        <mark key="[" line="59" column="48" />
+        <mark key="]" line="59" column="47" />
+        <mark key="." line="59" column="47" />
+        <mark key="^" line="59" column="47" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/company/project/dodoo-admin/src/router/index.js" timestamp="1517649000829">
+        <mark key="[" line="140" column="0" />
+        <mark key="]" line="140" column="0" />
+        <mark key="." line="140" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/company/project/dodoo-admin/src/components/device/group-list/src/main.vue" timestamp="1516618998051">
+        <mark key="[" line="118" column="77" />
+        <mark key="]" line="118" column="73" />
+        <mark key="^" line="118" column="73" />
+        <mark key="." line="118" column="73" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/company/project/front-end/dodoo-admin/src/components/HelloWorld.vue" timestamp="1515255710417">
+        <mark key="[" line="4" column="8" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/company/project/front-end/dodoo-admin/build/webpack.dev.conf.js" timestamp="1515256628437">
+        <mark key="[" line="69" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/company/project/dodoo-admin/Makefile" timestamp="1519739441474">
+        <mark key="[" line="2" column="4" />
+        <mark key="]" line="3" column="40" />
+        <mark key="^" line="3" column="40" />
+        <mark key="." line="3" column="40" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/company/project/dodoo-admin/build/webpack.prod.conf.js" timestamp="1516517853118">
+        <mark key="[" line="79" column="17" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/company/project/dodoo-admin/build/utils.js" timestamp="1516517892056">
+        <mark key="[" line="9" column="1" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/company/project/dodoo-admin/src/components/version/list.vue" timestamp="1516076043326">
+        <mark key="[" line="138" column="27" />
+        <mark key="]" line="137" column="47" />
+        <mark key="." line="137" column="47" />
+        <mark key="^" line="137" column="47" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/company/project/dodoo-admin/yarn.lock" timestamp="1514360659289">
+        <mark key="[" line="30" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="259" column="22" filename="$USER_HOME$/Dropbox/company/project/dodoo-admin/src/components/app/list.vue" />
+      <jump line="41" column="38" filename="$USER_HOME$/Dropbox/company/project/dodoo-admin/src/components/app/list.vue" />
+      <jump line="70" column="41" filename="$USER_HOME$/Dropbox/company/project/dodoo-admin/src/components/app/list.vue" />
+      <jump line="201" column="19" filename="$USER_HOME$/Dropbox/company/project/dodoo-admin/src/components/device/group-list/src/main.vue" />
+      <jump line="385" column="0" filename="$USER_HOME$/Dropbox/company/project/dodoo-admin/src/components/device/group-list/src/main.vue" />
+      <jump line="71" column="18" filename="$USER_HOME$/Dropbox/company/project/dodoo-admin/src/components/device/device-list/src/main.vue" />
+      <jump line="76" column="73" filename="$USER_HOME$/Dropbox/company/project/dodoo-admin/src/components/order/list.vue" />
+      <jump line="80" column="36" filename="$USER_HOME$/Dropbox/company/project/dodoo-admin/src/components/order/list.vue" />
+      <jump line="118" column="79" filename="$USER_HOME$/Dropbox/company/project/dodoo-admin/src/components/call/list.vue" />
+      <jump line="19" column="76" filename="$USER_HOME$/Dropbox/company/project/front-end/dodoo-admin/src/components/Login.vue" />
+      <jump line="52" column="0" filename="$USER_HOME$/Dropbox/company/project/front-end/dodoo-admin/src/components/Login.vue" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC8vIH0sCg==</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="/" type="4">
+        <text>name</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2ludmFsaWQgcHJlZml4JykK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIC8vIH0sCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIC8vICAgXQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIC8vICAgICB7IHBhdGg6ICcvZGV2aWNlL2FwcC9jb25maWcvZGV0YWlsJywgbmFtZTogJ2RldGFpbC1kZXZpY2UtYXBwLWNvbmZpZycsIGNoaW5lc2VOYW1lOiAn5pu05paw6K6+5aSH57uEJywgY29tcG9uZW50OiBEZXZpY2VBcHBDb25maWdEZXRhaWwsIGljb25DbHM6ICdmYSBmYS1wbHVzLWNpcmNsZScsIGhpZGRlbjogdHJ1ZSB9Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIC8vICAgICB7IHBhdGg6ICcvZGV2aWNlL2FwcC9jb25maWcvY3JlYXRlJywgbmFtZTogJ2NyZWF0ZS1kZXZpY2UtYXBwLWNvbmZpZycsIGNoaW5lc2VOYW1lOiAn5Yib5bu66K6+5aSH57uEJywgY29tcG9uZW50OiBEZXZpY2VBcHBDb25maWdDcmVhdGUsIGljb25DbHM6ICdmYSBmYS1wbHVzLWNpcmNsZScsIGhpZGRlbjogdHJ1ZSB9LAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIC8vICAgICB7IHBhdGg6ICcvZGV2aWNlL2FwcC9jb25maWcvbGlzdCcsIG5hbWU6ICd2aWV3LWRldmljZS1hcHAtY29uZmlnJywgY2hpbmVzZU5hbWU6ICforr7lpIfphY3nva4nLCBjb21wb25lbnQ6IERldmljZUFwcENvbmZpZ0xpc3QsIGljb25DbHM6ICdmYSBmYS1saXN0LXVsJyB9LAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIC8vICAgY2hpbGRyZW46IFsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIC8vICAgaWNvbkNsczogJ2ZhIGZhLW9iamVjdC1ncm91cCcsCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIC8vICAgbGVhZjogdHJ1ZSwK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIC8vICAgY29tcG9uZW50OiBIb21lLAo=</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>name</last-search>
+      <last-offset />
+      <last-pattern>name</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>name</entry>
+      </history-search>
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts />
+  </component>
+</application>

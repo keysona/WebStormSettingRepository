@@ -9,11 +9,6 @@
         <mark key="^" line="148" column="5" />
         <mark key="." line="148" column="5" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/dodoo-admin/src/components/device/device-list/src/main.vue" timestamp="1516155427974">
-        <mark key="[" line="400" column="69" />
-        <mark key="]" line="400" column="69" />
-        <mark key="." line="400" column="69" />
-      </file>
       <file name="$USER_HOME$/Dropbox/company/project/dodoo-admin/build/webpack.base.conf.js" timestamp="1516517899040">
         <mark key="[" line="8" column="0" />
       </file>
@@ -102,6 +97,7 @@
       <file name="$USER_HOME$/Dropbox/company/project/dodoo-admin/package.json" timestamp="1514379407520">
         <mark key="[" line="15" column="23" />
       </file>
+      <file name="$USER_HOME$/Dropbox/company/project/dodoo-admin/.eslintrc.js" timestamp="1519961533338" />
       <file name="$USER_HOME$/Dropbox/company/project/dodoo-admin/src/config/index.js" timestamp="1516518439723">
         <mark key="[" line="190" column="19" />
         <mark key="]" line="190" column="18" />
@@ -149,6 +145,7 @@
         <mark key="." line="137" column="47" />
         <mark key="^" line="137" column="47" />
       </file>
+      <file name="$USER_HOME$/Dropbox/company/project/dodoo-admin/.babelrc" timestamp="1519961515461" />
       <file name="$USER_HOME$/Dropbox/company/project/dodoo-admin/yarn.lock" timestamp="1514360659289">
         <mark key="[" line="30" column="0" />
       </file>

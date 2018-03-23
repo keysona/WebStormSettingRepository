@@ -54,7 +54,12 @@
         <mark key="^" line="53" column="53" />
         <mark key="." line="53" column="53" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/company/download.html" timestamp="1521635384954" />
+      <file name="$USER_HOME$/Dropbox/company/project/company/download.html" timestamp="1521793050125">
+        <mark key="[" line="98" column="105" />
+        <mark key="]" line="98" column="104" />
+        <mark key="." line="98" column="104" />
+        <mark key="^" line="98" column="104" />
+      </file>
       <file name="$USER_HOME$/Dropbox/company/project/front-end/dodoo-admin/src/main.js" timestamp="1515261565259">
         <mark key="[" line="3" column="34" />
         <mark key="]" line="16" column="3" />
@@ -163,11 +168,11 @@
       <jump line="52" column="0" filename="$USER_HOME$/Dropbox/company/project/front-end/dodoo-admin/src/components/Login.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIH0sCg==</text>
+      <register name="&quot;" type="4">
+        <text>IOS版即将上线</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>IOS版即将上线</text>
       </register>
       <register name="/" type="4">
         <text>name</text>

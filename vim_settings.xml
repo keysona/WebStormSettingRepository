@@ -36,8 +36,11 @@
         <mark key="." line="406" column="43" />
         <mark key="^" line="406" column="43" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/dodoo-admin/config/index.js" timestamp="1516518025016">
-        <mark key="[" line="12" column="35" />
+      <file name="$USER_HOME$/Dropbox/company/project/dodoo-admin/config/index.js" timestamp="1522026039145">
+        <mark key="[" line="9" column="29" />
+        <mark key="]" line="9" column="28" />
+        <mark key="." line="9" column="28" />
+        <mark key="^" line="9" column="28" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/dodoo-admin/src/components/device/list.vue" timestamp="1514979195175">
         <mark key="[" line="10" column="21" />
@@ -72,6 +75,7 @@
         <mark key="." line="133" column="11" />
         <mark key="^" line="133" column="11" />
       </file>
+      <file name="$USER_HOME$/Dropbox/company/project/dodoo-admin/build/vue-loader.conf.js" timestamp="1522025980937" />
       <file name="$USER_HOME$/Dropbox/company/project/dodoo-admin/src/components/device/group/create.vue" timestamp="1516805789899">
         <mark key="[" line="191" column="0" />
         <mark key="]" line="79" column="11" />
@@ -93,10 +97,11 @@
         <mark key="." line="237" column="41" />
         <mark key="^" line="237" column="41" />
       </file>
+      <file name="$USER_HOME$/Dropbox/company/project/dodoo-admin/src/main.js" timestamp="1522025946887" />
       <file name="$USER_HOME$/Dropbox/company/project/front-end/dodoo-admin/build/webpack.base.conf.js" timestamp="1515260682323">
         <mark key="[" line="47" column="8" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/dodoo-admin/build/build.js" timestamp="1516518002864">
+      <file name="$USER_HOME$/Dropbox/company/project/dodoo-admin/build/build.js" timestamp="1522025993404">
         <mark key="[" line="17" column="47" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/dodoo-admin/package.json" timestamp="1514379407520">
@@ -132,15 +137,16 @@
       <file name="$USER_HOME$/Dropbox/company/project/front-end/dodoo-admin/build/webpack.dev.conf.js" timestamp="1515256628437">
         <mark key="[" line="69" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/dodoo-admin/Makefile" timestamp="1519739441474">
-        <mark key="[" line="2" column="4" />
-        <mark key="]" line="3" column="40" />
-        <mark key="^" line="3" column="40" />
-        <mark key="." line="3" column="40" />
+      <file name="$USER_HOME$/Dropbox/company/project/dodoo-admin/Makefile" timestamp="1522026061727">
+        <mark key="[" line="2" column="6" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/dodoo-admin/build/webpack.prod.conf.js" timestamp="1516517853118">
         <mark key="[" line="79" column="17" />
       </file>
+      <file name="$USER_HOME$/Dropbox/company/project/dodoo-admin/build/webpack.dev.conf.js" timestamp="1522025968728" />
       <file name="$USER_HOME$/Dropbox/company/project/dodoo-admin/build/utils.js" timestamp="1516517892056">
         <mark key="[" line="9" column="1" />
       </file>
@@ -169,10 +175,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>IOS版即将上线</text>
+        <text>=</text>
       </register>
       <register name="-" type="4">
-        <text>IOS版即将上线</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text>name</text>

@@ -44,12 +44,19 @@
         <mark key="^" line="15" column="36" />
         <mark key="." line="15" column="36" />
       </file>
+      <file name="$USER_HOME$/Documents/dodoo-hotel/index.html" timestamp="1522814488014">
+        <mark key="[" line="6" column="46" />
+        <mark key="]" line="6" column="45" />
+        <mark key="." line="6" column="45" />
+        <mark key="^" line="6" column="45" />
+      </file>
       <file name="$USER_HOME$/Dropbox/company/project/front-end/dodoo-admin/.eslintrc.js" timestamp="1515292365386">
         <mark key="[" line="53" column="54" />
         <mark key="]" line="53" column="53" />
         <mark key="^" line="53" column="53" />
         <mark key="." line="53" column="53" />
       </file>
+      <file name="$USER_HOME$/Downloads/dodooHotel的副本 2/index.html" timestamp="1522814472519" />
       <file name="$USER_HOME$/Dropbox/company/project/company/download.html" timestamp="1522044718241">
         <mark key="[" line="98" column="105" />
         <mark key="]" line="98" column="104" />
@@ -75,6 +82,9 @@
         <mark key="^" line="79" column="11" />
         <mark key="." line="79" column="11" />
       </file>
+      <file name="/Dummy.txt" timestamp="1522813639692">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/company/project/company/about.html" timestamp="1522044914809">
         <mark key="[" line="152" column="7" />
       </file>
@@ -88,6 +98,7 @@
       <file name="$USER_HOME$/Dropbox/company/project/dodoo-admin/build/build.js" timestamp="1522025993404">
         <mark key="[" line="17" column="47" />
       </file>
+      <file name="$USER_HOME$/Documents/dodoo-hotel/src/App.vue" timestamp="1522814459068" />
       <file name="$USER_HOME$/Downloads/dodooHotel的副本/dist/index.html" timestamp="1522812657929" />
       <file name="$USER_HOME$/Dropbox/company/project/dodoo-admin/src/config/index.js" timestamp="1516518439723">
         <mark key="[" line="190" column="19" />
@@ -139,8 +150,8 @@
       <jump line="52" column="0" filename="$USER_HOME$/Dropbox/company/project/front-end/dodoo-admin/src/components/Login.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>10000</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>10000</text>
@@ -152,31 +163,31 @@
         <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2ludmFsaWQgcHJlZml4JykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIH0sCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vICAgXQo=</text>
+        <text encoding="base64">ICAgIC8vIH0sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vICAgICB7IHBhdGg6ICcvZGV2aWNlL2FwcC9jb25maWcvZGV0YWlsJywgbmFtZTogJ2RldGFpbC1kZXZpY2UtYXBwLWNvbmZpZycsIGNoaW5lc2VOYW1lOiAn5pu05paw6K6+5aSH57uEJywgY29tcG9uZW50OiBEZXZpY2VBcHBDb25maWdEZXRhaWwsIGljb25DbHM6ICdmYSBmYS1wbHVzLWNpcmNsZScsIGhpZGRlbjogdHJ1ZSB9Cg==</text>
+        <text encoding="base64">ICAgIC8vICAgXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vICAgICB7IHBhdGg6ICcvZGV2aWNlL2FwcC9jb25maWcvY3JlYXRlJywgbmFtZTogJ2NyZWF0ZS1kZXZpY2UtYXBwLWNvbmZpZycsIGNoaW5lc2VOYW1lOiAn5Yib5bu66K6+5aSH57uEJywgY29tcG9uZW50OiBEZXZpY2VBcHBDb25maWdDcmVhdGUsIGljb25DbHM6ICdmYSBmYS1wbHVzLWNpcmNsZScsIGhpZGRlbjogdHJ1ZSB9LAo=</text>
+        <text encoding="base64">ICAgIC8vICAgICB7IHBhdGg6ICcvZGV2aWNlL2FwcC9jb25maWcvZGV0YWlsJywgbmFtZTogJ2RldGFpbC1kZXZpY2UtYXBwLWNvbmZpZycsIGNoaW5lc2VOYW1lOiAn5pu05paw6K6+5aSH57uEJywgY29tcG9uZW50OiBEZXZpY2VBcHBDb25maWdEZXRhaWwsIGljb25DbHM6ICdmYSBmYS1wbHVzLWNpcmNsZScsIGhpZGRlbjogdHJ1ZSB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vICAgICB7IHBhdGg6ICcvZGV2aWNlL2FwcC9jb25maWcvbGlzdCcsIG5hbWU6ICd2aWV3LWRldmljZS1hcHAtY29uZmlnJywgY2hpbmVzZU5hbWU6ICforr7lpIfphY3nva4nLCBjb21wb25lbnQ6IERldmljZUFwcENvbmZpZ0xpc3QsIGljb25DbHM6ICdmYSBmYS1saXN0LXVsJyB9LAo=</text>
+        <text encoding="base64">ICAgIC8vICAgICB7IHBhdGg6ICcvZGV2aWNlL2FwcC9jb25maWcvY3JlYXRlJywgbmFtZTogJ2NyZWF0ZS1kZXZpY2UtYXBwLWNvbmZpZycsIGNoaW5lc2VOYW1lOiAn5Yib5bu66K6+5aSH57uEJywgY29tcG9uZW50OiBEZXZpY2VBcHBDb25maWdDcmVhdGUsIGljb25DbHM6ICdmYSBmYS1wbHVzLWNpcmNsZScsIGhpZGRlbjogdHJ1ZSB9LAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vICAgY2hpbGRyZW46IFsK</text>
+        <text encoding="base64">ICAgIC8vICAgICB7IHBhdGg6ICcvZGV2aWNlL2FwcC9jb25maWcvbGlzdCcsIG5hbWU6ICd2aWV3LWRldmljZS1hcHAtY29uZmlnJywgY2hpbmVzZU5hbWU6ICforr7lpIfphY3nva4nLCBjb21wb25lbnQ6IERldmljZUFwcENvbmZpZ0xpc3QsIGljb25DbHM6ICdmYSBmYS1saXN0LXVsJyB9LAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vICAgaWNvbkNsczogJ2ZhIGZhLW9iamVjdC1ncm91cCcsCg==</text>
+        <text encoding="base64">ICAgIC8vICAgY2hpbGRyZW46IFsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vICAgbGVhZjogdHJ1ZSwK</text>
+        <text encoding="base64">ICAgIC8vICAgaWNvbkNsczogJ2ZhIGZhLW9iamVjdC1ncm91cCcsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vICAgY29tcG9uZW50OiBIb21lLAo=</text>
+        <text encoding="base64">ICAgIC8vICAgbGVhZjogdHJ1ZSwK</text>
       </register>
     </registers>
     <search>

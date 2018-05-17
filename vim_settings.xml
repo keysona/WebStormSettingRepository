@@ -9,11 +9,11 @@
         <mark key="^" line="148" column="5" />
         <mark key="." line="148" column="5" />
       </file>
-      <file name="$USER_HOME$/Downloads/hotel/src/api.js" timestamp="1526196628412">
-        <mark key="[" line="4" column="47" />
-        <mark key="]" line="4" column="46" />
-        <mark key="^" line="4" column="46" />
-        <mark key="." line="4" column="46" />
+      <file name="$USER_HOME$/Downloads/hotel/src/api.js" timestamp="1526528888794">
+        <mark key="[" line="5" column="51" />
+        <mark key="]" line="5" column="50" />
+        <mark key="^" line="5" column="50" />
+        <mark key="." line="5" column="50" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/front-end/dodoo-admin/src/router/index.js" timestamp="1515294815718">
         <mark key="[" line="17" column="27" />
@@ -186,16 +186,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>m</text>
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>name</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YXhpb3MuZGVmYXVsdHMuYmFzZVVSTCA9ICdodHRwOi8vaG90ZWwuZnJwLmtleXNvbmEuY29tJzsK</text>
+        <text encoding="base64">YXhpb3MuZGVmYXVsdHMuYmFzZVVSTCA9ICdodHRwOi8vMTI3LjAuMC4xOjgwODInOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>

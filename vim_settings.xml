@@ -15,6 +15,18 @@
         <mark key="^" line="5" column="50" />
         <mark key="." line="5" column="50" />
       </file>
+      <file name="$USER_HOME$/Dropbox/company/project/company/pay.html" timestamp="1527679783611">
+        <mark key="[" line="60" column="33" />
+        <mark key="]" line="60" column="32" />
+        <mark key="^" line="60" column="32" />
+        <mark key="." line="60" column="32" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/company/project/company/Makefile" timestamp="1527680065606">
+        <mark key="[" line="4" column="4" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/company/project/front-end/dodoo-admin/src/router/index.js" timestamp="1515294815718">
         <mark key="[" line="17" column="27" />
         <mark key="]" line="17" column="26" />
@@ -27,19 +39,17 @@
         <mark key="^" line="16" column="16" />
         <mark key="." line="16" column="16" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/company/recharge.html" timestamp="1522044763674">
-        <mark key="[" line="218" column="12" />
+      <file name="$USER_HOME$/Dropbox/company/project/company/recharge.html" timestamp="1527679796242">
+        <mark key="[" line="153" column="33" />
+        <mark key="]" line="153" column="32" />
+        <mark key="^" line="153" column="32" />
+        <mark key="." line="153" column="32" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/dodoo-admin/src/api/api.js" timestamp="1525940206409">
         <mark key="[" line="11" column="11" />
         <mark key="]" line="11" column="11" />
         <mark key="." line="11" column="11" />
         <mark key="^" line="406" column="43" />
-      </file>
-      <file name="$USER_HOME$/Documents/dodoo-hotel/src/router/index.js" timestamp="1522817628746">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/dodoo-admin/config/index.js" timestamp="1522817920519">
         <mark key="[" line="9" column="29" />
@@ -71,23 +81,29 @@
         <mark key="^" line="53" column="53" />
         <mark key="." line="53" column="53" />
       </file>
-      <file name="$USER_HOME$/Documents/dodoo-hotel/Makefile" timestamp="1522824973164">
-        <mark key="[" line="3" column="2" />
-        <mark key="]" line="3" column="2" />
-        <mark key="." line="3" column="2" />
-      </file>
-      <file name="$USER_HOME$/Downloads/dodooHotel的副本 2/src/main.js" timestamp="1525602869812" />
       <file name="$USER_HOME$/Downloads/dodooHotel的副本 2/index.html" timestamp="1522849432712">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="7" column="23" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/company/download.html" timestamp="1522044718241">
-        <mark key="[" line="98" column="105" />
-        <mark key="]" line="98" column="104" />
-        <mark key="." line="98" column="104" />
-        <mark key="^" line="98" column="104" />
+      <file name="$USER_HOME$/Dropbox/company/project/company/service_protocol.html" timestamp="1527679811282">
+        <mark key="[" line="60" column="33" />
+        <mark key="]" line="60" column="32" />
+        <mark key="^" line="60" column="32" />
+        <mark key="." line="60" column="32" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/company/project/company/download.html" timestamp="1527679771626">
+        <mark key="[" line="63" column="33" />
+        <mark key="]" line="63" column="32" />
+        <mark key="." line="63" column="32" />
+        <mark key="^" line="63" column="32" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/company/project/company/after_service.html" timestamp="1527679766830">
+        <mark key="[" line="60" column="33" />
+        <mark key="]" line="60" column="32" />
+        <mark key="^" line="60" column="32" />
+        <mark key="." line="60" column="32" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/front-end/dodoo-admin/src/main.js" timestamp="1515261565259">
         <mark key="[" line="3" column="34" />
@@ -107,11 +123,20 @@
         <mark key="^" line="79" column="11" />
         <mark key="." line="79" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522813639692">
+      <file name="$USER_HOME$/Dropbox/company/project/company/index.html" timestamp="1527679776081">
+        <mark key="[" line="59" column="33" />
+        <mark key="]" line="59" column="32" />
+        <mark key="^" line="59" column="32" />
+        <mark key="." line="59" column="32" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1527680075603">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/company/about.html" timestamp="1522044914809">
-        <mark key="[" line="152" column="7" />
+      <file name="$USER_HOME$/Dropbox/company/project/company/about.html" timestamp="1527679857936">
+        <mark key="[" line="97" column="9" />
+        <mark key="]" line="97" column="32" />
+        <mark key="^" line="109" column="35" />
+        <mark key="." line="97" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dodoo-hotel/flush_cdn.py" timestamp="1522822463384">
         <mark key="[" line="0" column="0" />
@@ -128,8 +153,21 @@
         <mark key="^" line="6" column="33" />
         <mark key="." line="6" column="33" />
       </file>
+      <file name="$USER_HOME$/Dropbox/company/project/company/privacy_policy.html" timestamp="1527679792829">
+        <mark key="[" line="60" column="33" />
+        <mark key="]" line="60" column="32" />
+        <mark key="^" line="60" column="32" />
+        <mark key="." line="60" column="32" />
+      </file>
+      <file name="$USER_HOME$/Downloads/hotel/Makefile" timestamp="1527680055705" />
       <file name="$USER_HOME$/Dropbox/company/project/dodoo-admin/build/build.js" timestamp="1522025993404">
         <mark key="[" line="17" column="47" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/company/project/company/recruit.html" timestamp="1527679799365">
+        <mark key="[" line="60" column="33" />
+        <mark key="]" line="60" column="32" />
+        <mark key="^" line="60" column="32" />
+        <mark key="." line="60" column="32" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/dodoo-admin/src/config/index.js" timestamp="1516518439723">
         <mark key="[" line="190" column="19" />
@@ -137,14 +175,18 @@
         <mark key="." line="190" column="18" />
         <mark key="^" line="190" column="18" />
       </file>
+      <file name="$USER_HOME$/Dropbox/company/project/company/parameter.html" timestamp="1527679780281">
+        <mark key="[" line="60" column="33" />
+        <mark key="]" line="60" column="32" />
+        <mark key="^" line="60" column="32" />
+        <mark key="." line="60" column="32" />
+      </file>
       <file name="$USER_HOME$/Dropbox/company/project/front-end/dodoo-admin/src/components/Home.vue" timestamp="1515315151089">
         <mark key="[" line="59" column="48" />
         <mark key="]" line="59" column="47" />
         <mark key="." line="59" column="47" />
         <mark key="^" line="59" column="47" />
       </file>
-      <file name="$USER_HOME$/Downloads/hotel/src/page/promotion/info.vue" timestamp="1526195793703" />
-      <file name="$USER_HOME$/Downloads/hotel/src/page/release/main.vue" timestamp="1526741849021" />
       <file name="$USER_HOME$/Dropbox/company/project/dodoo-admin/src/components/device/group-list/src/main.vue" timestamp="1516618998051">
         <mark key="[" line="118" column="77" />
         <mark key="]" line="118" column="73" />
@@ -169,6 +211,12 @@
         <mark key="." line="137" column="47" />
         <mark key="^" line="137" column="47" />
       </file>
+      <file name="$USER_HOME$/Dropbox/company/project/company/pay_result.html" timestamp="1527679788086">
+        <mark key="[" line="60" column="33" />
+        <mark key="]" line="60" column="32" />
+        <mark key="^" line="60" column="32" />
+        <mark key="." line="60" column="32" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="259" column="22" filename="$USER_HOME$/Dropbox/company/project/dodoo-admin/src/components/app/list.vue" />
@@ -186,44 +234,44 @@
       <jump line="0" column="0" filename="$USER_HOME$/Downloads/dodooHotel的副本 2/index.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>2</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCTxwPueUteivnTogMDc1NS0yNjkxMDQ2OTwvcD4K</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>台</text>
       </register>
       <register name="/" type="4">
         <text>name</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YXhpb3MuZGVmYXVsdHMuYmFzZVVSTCA9ICdodHRwOi8vMTI3LjAuMC4xOjgwODInOwo=</text>
+        <text encoding="base64">CQkJCTxwPueUteivnTogMDc1NS0yNjkxMDQ2OTwvcD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQk8cD48Yj7llK7lkI7mnI3liqHlj4rllYbliqHlkIjkvZw8L2I+PC9wPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxkaXY+57u05oqk5LitITwvZGl2Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIDxkaXY+57u05oqk5LitITwvZGl2Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxkaXY+PC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIDxkaXY+PC9kaXY+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxkaXYgaWQ9ImFwcCI+PC9kaXY+Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSIvZGlzdC9idWlsZC5qcyI+PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">ICAgIDxkaXYgaWQ9ImFwcCI+PC9kaXY+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxsaW5rIHJlbD0ic2hvcnRjdXQgaWNvbiIgIGhyZWY9ImZhdmljb24uaWNvIi8+Cg==</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSIvZGlzdC9idWlsZC5qcyI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSIvL2Nkbi5ib290Y3NzLmNvbS9qcXVlcnkvMi4yLjQvanF1ZXJ5LmpzIj48L3NjcmlwdD4K</text>
+        <text encoding="base64">ICAgIDxsaW5rIHJlbD0ic2hvcnRjdXQgaWNvbiIgIGhyZWY9ImZhdmljb24uaWNvIi8+Cg==</text>
       </register>
     </registers>
     <search>

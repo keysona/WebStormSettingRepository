@@ -81,12 +81,6 @@
         <mark key="^" line="53" column="53" />
         <mark key="." line="53" column="53" />
       </file>
-      <file name="$USER_HOME$/Downloads/dodooHotel的副本 2/index.html" timestamp="1522849432712">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="7" column="23" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
       <file name="$USER_HOME$/Dropbox/company/project/company/service_protocol.html" timestamp="1527679811282">
         <mark key="[" line="60" column="33" />
         <mark key="]" line="60" column="32" />
@@ -129,17 +123,16 @@
         <mark key="^" line="59" column="32" />
         <mark key="." line="59" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527690698654">
+      <file name="/Dummy.txt" timestamp="1527742322795">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/company/about.html" timestamp="1527679857936">
         <mark key="[" line="97" column="9" />
         <mark key="]" line="97" column="32" />
         <mark key="^" line="109" column="35" />
         <mark key="." line="97" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/dodoo-hotel/flush_cdn.py" timestamp="1522822463384">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/dodoo-admin/src/components/feedback/list.vue" timestamp="1516155805345">
         <mark key="[" line="239" column="9" />
@@ -160,9 +153,7 @@
         <mark key="." line="60" column="32" />
       </file>
       <file name="$USER_HOME$/Downloads/hotel/Makefile" timestamp="1527680055705" />
-      <file name="$USER_HOME$/Dropbox/company/project/dodoo-admin/build/build.js" timestamp="1522025993404">
-        <mark key="[" line="17" column="47" />
-      </file>
+      <file name="$USER_HOME$/Dropbox/company/project/company/css/style.css" timestamp="1527742303130" />
       <file name="$USER_HOME$/Dropbox/company/project/company/recruit.html" timestamp="1527679799365">
         <mark key="[" line="60" column="33" />
         <mark key="]" line="60" column="32" />
@@ -234,8 +225,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Downloads/dodooHotel的副本 2/index.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCTxwPueUteivnTogMDc1NS0yNjkxMDQ2OTwvcD4K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">QWRkIOW8gOaUvuW5s+WPsCAmIOWVhuWKoeWQiOS9nC4KQWRkIHBob25lIG51bWJlci4=</text>
       </register>
       <register name="-" type="4">
         <text>台</text>
@@ -246,32 +237,32 @@
       <register name="0" type="2">
         <text encoding="base64">CQkJCTxwPueUteivnTogMDc1NS0yNjkxMDQ2OTwvcD4K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQk8cD48Yj7llK7lkI7mnI3liqHlj4rllYbliqHlkIjkvZw8L2I+PC9wPgo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">QWRkIOW8gOaUvuW5s+WPsCAmIOWVhuWKoeWQiOS9nC4KQWRkIHBob25lIG51bWJlci4=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQk8cD48Yj7llK7lkI7mnI3liqHlj4rllYbliqHlkIjkvZw8L2I+PC9wPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxkaXY+57u05oqk5LitITwvZGl2Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIDxkaXY+57u05oqk5LitITwvZGl2Pgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxkaXY+PC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIDxkaXY+PC9kaXY+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxkaXYgaWQ9ImFwcCI+PC9kaXY+Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSIvZGlzdC9idWlsZC5qcyI+PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">ICAgIDxkaXYgaWQ9ImFwcCI+PC9kaXY+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxsaW5rIHJlbD0ic2hvcnRjdXQgaWNvbiIgIGhyZWY9ImZhdmljb24uaWNvIi8+Cg==</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSIvZGlzdC9idWlsZC5qcyI+PC9zY3JpcHQ+Cg==</text>
       </register>
     </registers>
     <search>

@@ -123,16 +123,13 @@
         <mark key="^" line="59" column="32" />
         <mark key="." line="59" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527742322795">
+      <file name="/Dummy.txt" timestamp="1528427403450">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/company/about.html" timestamp="1527679857936">
-        <mark key="[" line="97" column="9" />
-        <mark key="]" line="97" column="32" />
-        <mark key="^" line="109" column="35" />
-        <mark key="." line="97" column="0" />
+        <mark key="^" line="115" column="35" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/dodoo-admin/src/components/feedback/list.vue" timestamp="1516155805345">
         <mark key="[" line="239" column="9" />
@@ -152,9 +149,9 @@
         <mark key="^" line="60" column="32" />
         <mark key="." line="60" column="32" />
       </file>
-      <file name="$USER_HOME$/Downloads/hotel/Makefile" timestamp="1527680055705" />
-      <file name="$USER_HOME$/Dropbox/company/project/company/css/style.css" timestamp="1527742303130" />
-      <file name="$USER_HOME$/Dropbox/company/project/company/ide.html" timestamp="1527820338280" />
+      <file name="$USER_HOME$/Dropbox/company/project/company/ide.html" timestamp="1528427315359">
+        <mark key="[" line="26" column="18" />
+      </file>
       <file name="$USER_HOME$/Dropbox/company/project/company/recruit.html" timestamp="1527679799365">
         <mark key="[" line="60" column="33" />
         <mark key="]" line="60" column="32" />

@@ -9,6 +9,12 @@
         <mark key="^" line="148" column="5" />
         <mark key="." line="148" column="5" />
       </file>
+      <file name="$USER_HOME$/Dropbox/company/project/dodoo-admin/src/components/device/device-list/src/main.vue" timestamp="1528470906570">
+        <mark key="[" line="206" column="41" />
+        <mark key="]" line="200" column="67" />
+        <mark key="." line="200" column="67" />
+        <mark key="^" line="200" column="67" />
+      </file>
       <file name="$USER_HOME$/Downloads/hotel/src/api.js" timestamp="1526741786044">
         <mark key="[" line="5" column="51" />
         <mark key="]" line="5" column="50" />
@@ -236,11 +242,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Downloads/dodooHotel的副本 2/index.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCIgc3JjPSJqcy9iYWlkdS5qcyI+PC9zY3JpcHQ+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>register_gift_login_name</text>
       </register>
       <register name="-" type="4">
-        <text>台</text>
+        <text>register_gift_login_name</text>
       </register>
       <register name="/" type="4">
         <text>name</text>
